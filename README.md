@@ -17,6 +17,6 @@ HTML, JS(TSでも可), CSS
 
 ## ロール
 
-PO: @kurazuuuuuu
-SM: @kamekodai
-Dev: @KAYAKUcreeper
+- PO: @kurazuuuuuu
+- SM: @kamekodai
+- Dev: @KAYAKUcreeper
